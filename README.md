@@ -5,10 +5,10 @@ Um simples projeto em HTML e CSS de uma modelo fictícia feito para demonstrar m
 
 ## 🎨 Layout
 
-![image](https://github.com/LucasMMorfim/Projeto-Ana-Bella/blob/main/Imagens/HOME.png)
-![image](https://github.com/LucasMMorfim/Projeto-Ana-Bella/blob/main/Imagens/BIO.png)
-![image](https://github.com/LucasMMorfim/Projeto-Ana-Bella/blob/main/Imagens/CP.png)
-![image](https://github.com/LucasMMorfim/Projeto-Ana-Bella/blob/main/Imagens/CONTATO.png)
+![image](https://github.com/LucasMMorfim/Projeto-Ana-Bella/blob/main/Imagens-demonstracao/HOME.png)
+![image](https://github.com/LucasMMorfim/Projeto-Ana-Bella/blob/main/Imagens-demonstracao/BIO.png)
+![image](https://github.com/LucasMMorfim/Projeto-Ana-Bella/blob/main/Imagens-demonstracao/CP.png)
+![image](https://github.com/LucasMMorfim/Projeto-Ana-Bella/blob/main/Imagens-demonstracao/CONTATO.png)
 
 ## 🛠 Tecnologias
 
@@ -23,7 +23,7 @@ Esse projeto foi elaborado para web. </br>
 Para acessar basta clicar no link abaixo:</br>
 https://lucasmmorfim.github.io/Projeto-Ana-Bella/
 
-#Usando o Link acima podem aparecer alguns bugs no projeto devido a plataforma do GITHUB
+❗ Usando o Link acima pode ser que apareça bugs no projeto devido a plataforma do GITHUB ❗
 
 ## 📁 Como executar o projeto na sua maquina
 
